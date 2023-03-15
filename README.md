@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1>
+  Olá, eu sou a Andrea 👋
+</h1>
 
-<!--
-**NoerAndrea/NoerAndrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>
+  Sobre mim: 😄
+</h2>
 
-Here are some ideas to get you started:
+<ul>
+  <li>🏖️ <strong>Hobbies:</strong> </li><br>
+   Praticar atividade física, assistir série, codar...<br>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <li>👩‍🎓 <strong>Formação:</strong> </li><br>
+    Graduada em Arquitetura e Urbanismo e 🎓 aluna do Programa Starter Full Stack Web Developer <a href=https://www.growdev.com.br/ target=_blank>Growdev</a>
+  
+  <li>💼 <strong>Experiências profissionais:</strong> </li><br>
+    Freelancer em programação web e desenvolvimento de projetos arquitetônicos.
+ 
+  <li>💻 <strong>Estudando atualmente:</strong></li><br>
+  
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  
+  <li>📍 <strong>Como me encontrar:</strong></li><br>
+  
+  <a href=https://www.linkedin.com/in/andrea-noer-js/ target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+
